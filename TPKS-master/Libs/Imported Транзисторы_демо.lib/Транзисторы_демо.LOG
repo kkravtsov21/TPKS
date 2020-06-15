@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : Транзисторы_демо.LibPkg
+
+Section : E:\My_Doc\My_Documents\Prepod\LessCourses\САПР_ЕОМ\Work\Транзисторы_демо.lib
+    Section : PCB Library - Транзисторы_демо.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token NPN On Line 127
+            Warning - 1 : Skipping Token attachedSymbol On Line 182
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - Транзисторы_демо.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 34
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 112
+            Warning - 1 : Skipping Token layerContents On Line 121
+            Warning - 1 : Skipping Token defaultPinDes On Line 135
+            Warning - 1 : Skipping Token defaultPinDes On Line 143
+            Warning - 1 : Skipping Token defaultPinDes On Line 151
+        EndSection
+
+        Section : Generating SCH Library - Транзисторы_демо.SchLib
+        EndSection
+    EndSection
+EndSection

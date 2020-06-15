@@ -1,0 +1,66 @@
+P-CAD Net List Load Errors
+
+======================================================================
+
+Netlist filename: D:\Руслан\Учеба\ТПКС\Work\Shema1.net
+Warning: line 392
+   * Component VT1 of type NPN is not in libraries.  Component of type KT315 loaded.
+Warning: line 392
+   * Component VT1 of type NPN loaded with a pattern mismatch between the library (KT-13) and netlist file (KT315)
+SHORTED NETS:
+
+
+Net List Errors:   0
+Net List Warnings: 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+28-Feb-20  21:40                                            Page    1
+
